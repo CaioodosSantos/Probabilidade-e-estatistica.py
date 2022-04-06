@@ -1,1 +1,1 @@
-# Probabilidade-e-estat-stica
+# Probabilidade-e-estatistica
